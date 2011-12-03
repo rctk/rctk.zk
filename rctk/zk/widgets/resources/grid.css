@@ -1,0 +1,14 @@
+.GridColumnStyle div.z-column-cnt
+{
+    padding: 7px 0 5px 5px;
+}
+
+.GridNumericStyle .z-intbox-inp, .z-decimalbox-inp
+{
+    text-align: center;
+}
+
+.GridRowStyle tr.z-row td.z-row-inner,div.z-row-cnt
+{
+    padding: 0 2px;
+}

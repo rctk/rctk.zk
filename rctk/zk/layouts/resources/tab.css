@@ -1,0 +1,21 @@
+.nav_tabs .z-tabpanel 
+{ 
+ padding: 0; border-bottom: 0 none;
+}
+
+.nav_tabs .z-tabpanels .z-toolbarbutton-cnt 
+{ 
+ padding: 4px;
+}
+
+.nav_category 
+{ 
+ cursor:pointer; 
+}
+ 
+.nav_text 
+{ 
+ color: #696569; 
+ font-size : 24px; 
+ font-weight: bold;
+}
