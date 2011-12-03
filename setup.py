@@ -24,7 +24,6 @@ setup(name='rctk.zk',
       install_requires=[
           'setuptools',
           'rctk',
-          'rctk.core'
       ],
       entry_points="""
       # -*- Entry points: -*-
